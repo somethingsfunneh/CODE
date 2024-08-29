@@ -3,4 +3,11 @@ Tiles.sprite3/
 Item.sprite3/
 Inventory.sprite3/
 Entity.sprite3/
+HUD.sprite3/
+Arrow.sprite3/
+Particles.sprite3/
+Generate.sprite3/
+Progress Bar.sprite3/
+Minecraft Title.sprite3/
+Play.sprite3/
 /
