@@ -1,1 +1,6 @@
-
+Player.sprite3/
+Tiles.sprite3/
+Item.sprite3/
+Inventory.sprite3/
+Entity.sprite3/
+/
